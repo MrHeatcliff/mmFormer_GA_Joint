@@ -142,7 +142,7 @@ class GA_Segment:
             segmentation[mask] = value
             value += segmentation_value
 
-        self.im_mask = np.where((segmentation >= 0.8) & (
+        self.im_mask = np.where((segmentation >= 0.6) & (
             segmentation <= 1), 1, 0).astype(np.uint8) * 255
 
         plt.figure(figsize=(10, 4))
@@ -189,7 +189,7 @@ print("Shape of image data:", len(image_data.shape))
 
 
 # Chọn lát cắt giữa
-slice_index = image_data.shape[2] // 2
+slice_index = image_data.shape[1] // 2
 
 matrix_2d = np.copy(image_data[:, :, slice_index]).astype(np.float32)
 matrix_2d = cv2.normalize(matrix_2d, None, 0, 255, cv2.NORM_MINMAX)
