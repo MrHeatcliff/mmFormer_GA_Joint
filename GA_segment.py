@@ -2,7 +2,9 @@ import nibabel as nib
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
-
+import concurrent.futures
+import threading
+import time
 
 class GA_Segment:
     def __init__(self, input: np.ndarray, image_path="", n_population=20, n_iterations=100, n_bins=256,
@@ -13,7 +15,6 @@ class GA_Segment:
             self.image = input
         else:
             self.image = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
-        print(self.image.dtype)
         self.image = self.median_filter(self.image)
         self.n_population = n_population
         self.n_iterations = n_iterations
@@ -22,7 +23,8 @@ class GA_Segment:
         self.p_selection = p_selection
         self.p_crossover = p_crossover
         self.p_mutation = p_mutation
-        self.im_mask = None
+        self.im_mask = np.zeros_like(self.image, dtype=np.float32)
+        self.im_seg = np.zeros_like(self.image, dtype=np.float32)
         self.population = self.initialization()
 
     def median_filter(self, image):
@@ -125,9 +127,8 @@ class GA_Segment:
 
     def accept_solution(self, population):
         """Chấp nhận nghiệm tối ưu sau quá trình tiến hóa."""
-        segmentation = np.zeros_like(self.image, dtype=np.float32)
+        self.im_seg = np.zeros_like(self.image, dtype=np.float32)
         segmentation_value = 1 / self.n_thresholds
-        genome_size = self.population.shape[1] // self.n_thresholds
 
         ranking = self.fitness(population)
         best_genome = population[np.argmin(ranking)]
@@ -139,22 +140,23 @@ class GA_Segment:
         for i in range(len(split_points) - 1):
             left, right = split_points[i], split_points[i + 1]
             mask = (self.image >= left) & (self.image < right)
-            segmentation[mask] = value
+            self.im_seg[mask] = value
             value += segmentation_value
 
-        self.im_mask = np.where((segmentation >= 0.6) & (
-            segmentation <= 1), 1, 0).astype(np.uint8) * 255
+        self.im_mask = np.where((self.im_seg >= 0.6) & (
+            self.im_seg <= 1), 1, 0).astype(np.uint8) * 255
 
+    def print(self):
         plt.figure(figsize=(10, 4))
         plt.subplot(1, 3, 1)
         plt.imshow(self.image, cmap='gray')
         plt.title('Original Image')
 
         plt.subplot(1, 3, 2)
-        plt.imshow(segmentation, cmap='gray')
+        plt.imshow(self.im_seg, cmap='gray')
         plt.title('Segmented Image')
 
-        hist, bins = np.histogram(segmentation.ravel(), bins=10, range=[0, 1])
+        hist, bins = np.histogram(self.im_seg.ravel(), bins=10, range=[0, 1])
         print("Histogram of Segmentation:")
         for b, h in zip(bins[:-1], hist):
             print(f"Bin {b:.2f} - {b+0.1:.2f}: {h}")
@@ -177,29 +179,60 @@ class GA_Segment:
         self.accept_solution(self.population)
 
 
-# Đọc file NIfTI
+def GA_Segment_nii(data_in):
+    """
+    Hàm segment ảnh nii
+
+    Đầu vào:
+        data_in: Ảnh nii dưới dạng numpy array (128x128x128)
+
+    Đầu ra:
+        data_out: Ảnh đã segment (128x128x128)
+    """
+
+    # Chuẩn hóa dữ liệu về khoảng 0 - 255 để xử lý
+    norm_data = cv2.normalize(data_in, None, 0, 255, cv2.NORM_MINMAX)
+    norm_data = np.uint8(norm_data)  # Chuyển về uint8
+
+    # Tạo mảng đầu ra để lưu kết quả segmentation
+    data_out = np.zeros_like(norm_data, dtype=np.uint8)
+
+    processed_slices = 0
+    total_slices = norm_data.shape[2]
+    def print_status():
+        while processed_slices < total_slices:
+            print(f"Đã xử lý {processed_slices}/{total_slices} lát cắt...")
+            time.sleep(10)
+    
+    # Xử lý từng lát cắt 2D trong ảnh 3D
+    # Định nghĩa hàm xử lý từng lát cắt
+    def process_slice(i):
+        nonlocal processed_slices
+        slice_img = norm_data[:, :, i]
+        ga_segment = GA_Segment(slice_img)
+        ga_segment.run()
+        data_out[:, :, i] = ga_segment.im_mask
+        processed_slices += 1
+    # Chạy luồng in trạng thái
+    status_thread = threading.Thread(target=print_status, daemon=True)
+    status_thread.start()
+    # Dùng ThreadPoolExecutor để chạy đa luồng
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        executor.map(process_slice, range(total_slices))
+
+    return data_out
+
+
+# Đọc file
 file_path = "Brats18_CBICA_AAM_1_flair.nii"
 nii_img = nib.load(file_path)
 
 # Lấy dữ liệu ảnh dưới dạng numpy array
-image_data = nii_img.get_fdata()
+nii_data = nii_img.get_fdata()
 
-# Kiểm tra kích thước ảnh
-print("Shape of image data:", len(image_data.shape))
+# sử dụng hàm
+seg_data = GA_Segment_nii(nii_data)
 
 
-# Chọn lát cắt giữa
-slice_index = image_data.shape[1] // 2
-
-matrix_2d = np.copy(image_data[:, :, slice_index]).astype(np.float32)
-matrix_2d = cv2.normalize(matrix_2d, None, 0, 255, cv2.NORM_MINMAX)
-matrix_2d = matrix_2d.astype(np.uint8)
-
-# Ví dụ sử dụng
-ga_segment = GA_Segment(matrix_2d)
-ga_segment.run()
-
-plt.subplot(1, 3, 3)
-plt.imshow(ga_segment.im_mask, cmap='gray')
-plt.title('Mask Image')
-plt.show()
+print("Kích thước đầu vào:", nii_data.shape)
+print("Kích thước đầu ra:", seg_data.shape)
