@@ -6,6 +6,7 @@ import concurrent.futures
 import threading
 import time
 
+
 class GA_Segment:
     def __init__(self, input: np.ndarray, image_path="", n_population=20, n_iterations=100, n_bins=256,
                  n_thresholds=5, p_selection=0.1, p_crossover=0.8, p_mutation=0.1):
@@ -160,6 +161,7 @@ class GA_Segment:
         print("Histogram of Segmentation:")
         for b, h in zip(bins[:-1], hist):
             print(f"Bin {b:.2f} - {b+0.1:.2f}: {h}")
+        plt.show()
 
     def run(self):
         for _ in range(self.n_iterations):
@@ -199,11 +201,12 @@ def GA_Segment_nii(data_in):
 
     processed_slices = 0
     total_slices = norm_data.shape[2]
+
     def print_status():
         while processed_slices < total_slices:
             print(f"Đã xử lý {processed_slices}/{total_slices} lát cắt...")
             time.sleep(10)
-    
+
     # Xử lý từng lát cắt 2D trong ảnh 3D
     # Định nghĩa hàm xử lý từng lát cắt
     def process_slice(i):
@@ -236,3 +239,22 @@ seg_data = GA_Segment_nii(nii_data)
 
 print("Kích thước đầu vào:", nii_data.shape)
 print("Kích thước đầu ra:", seg_data.shape)
+# in thử kết quả
+# Chọn lát cắt giữa để hiển thị
+slice_idx = nii_data.shape[2] // 2  # Lấy lát cắt giữa
+
+# Hiển thị ảnh gốc và ảnh sau segmentation
+fig, axes = plt.subplots(1, 2, figsize=(10, 5))
+
+# Ảnh gốc
+axes[0].imshow(nii_data[:, :, slice_idx], cmap="gray")
+axes[0].set_title("Ảnh Gốc (Slice {})".format(slice_idx))
+axes[0].axis("off")
+
+# Ảnh đã segment
+axes[1].imshow(seg_data[:, :, slice_idx], cmap="gray")
+axes[1].set_title("Ảnh Segment (Slice {})".format(slice_idx))
+axes[1].axis("off")
+
+# Hiển thị hình ảnh
+plt.show()
