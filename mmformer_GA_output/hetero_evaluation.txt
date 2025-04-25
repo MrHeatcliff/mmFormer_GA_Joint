@@ -1,0 +1,473 @@
+2025-04-18 07:36:32,095 Loaded model from epoch: 999
+2025-04-18 07:36:32,098 ###########test set wi/wo postprocess###########
+2025-04-18 07:36:32,098 Testing t2
+2025-04-18 07:38:37,247 Loaded model from epoch: 999
+2025-04-18 07:38:37,249 ###########test set wi/wo postprocess###########
+2025-04-18 07:38:37,249 Testing t2
+2025-04-18 07:41:01,979 Loaded model from epoch: 999
+2025-04-18 07:41:01,981 ###########test set wi/wo postprocess###########
+2025-04-18 07:41:01,981 Testing t2
+2025-04-18 07:41:55,887 Loaded model from epoch: 999
+2025-04-18 07:44:06,096 Loaded model from epoch: 999
+2025-04-18 07:44:06,098 ###########test set wi/wo postprocess###########
+2025-04-18 07:44:06,098 Testing t2
+2025-04-18 07:45:54,171 Loaded model from epoch: 999
+2025-04-18 07:45:54,173 ###########test set wi/wo postprocess###########
+2025-04-18 07:45:54,173 Testing t2
+2025-04-18 07:50:07,010 Loaded model from epoch: 999
+2025-04-18 07:50:07,012 ###########test set wi/wo postprocess###########
+2025-04-18 07:50:07,012 Testing t2
+2025-04-18 07:52:10,171 Loaded model from epoch: 999
+2025-04-18 07:52:10,173 ###########test set wi/wo postprocess###########
+2025-04-18 07:52:10,173 Testing t2
+2025-04-18 07:54:47,702 Loaded model from epoch: 999
+2025-04-18 07:54:47,704 ###########test set wi/wo postprocess###########
+2025-04-18 07:54:47,704 Testing t2
+2025-04-18 07:56:11,414 Loaded model from epoch: 999
+2025-04-18 07:56:11,416 ###########test set wi/wo postprocess###########
+2025-04-18 07:56:11,416 Testing t2
+2025-04-18 07:57:39,084 Loaded model from epoch: 999
+2025-04-18 07:57:39,086 ###########test set wi/wo postprocess###########
+2025-04-18 07:57:39,086 Testing t2
+2025-04-18 07:59:04,396 Loaded model from epoch: 999
+2025-04-18 07:59:04,399 ###########test set wi/wo postprocess###########
+2025-04-18 07:59:04,399 Testing t2
+2025-04-18 08:00:18,313 Loaded model from epoch: 999
+2025-04-18 08:00:18,315 ###########test set wi/wo postprocess###########
+2025-04-18 08:00:18,315 Testing t2
+2025-04-18 08:00:19,511 Unexpected GA mask type: <class 'list'>. Using zero mask.
+2025-04-18 08:01:45,906 Loaded model from epoch: 999
+2025-04-18 08:01:45,910 ###########test set wi/wo postprocess###########
+2025-04-18 08:01:45,910 Testing t2
+2025-04-18 08:01:47,115 Unexpected GA mask type: <class 'list'>. Using zero mask.
+2025-04-18 08:03:08,844 Loaded model from epoch: 999
+2025-04-18 08:03:08,846 ###########test set wi/wo postprocess###########
+2025-04-18 08:03:08,846 Testing t2
+2025-04-18 08:03:10,070 Unexpected GA mask type: <class 'list'>. Using zero mask.
+2025-04-18 08:04:26,642 Loaded model from epoch: 999
+2025-04-18 08:04:26,645 ###########test set wi/wo postprocess###########
+2025-04-18 08:04:26,645 Testing t2
+2025-04-18 08:04:27,816 Unexpected GA mask type: <class 'list'>. Using zero mask.
+2025-04-18 08:05:16,688 Loaded model from epoch: 999
+2025-04-18 08:05:16,690 ###########test set wi/wo postprocess###########
+2025-04-18 08:05:16,690 Testing t2
+2025-04-18 08:08:31,897 Loaded model from epoch: 999
+2025-04-18 08:08:31,899 ###########test set wi/wo postprocess###########
+2025-04-18 08:08:31,899 Testing t2
+2025-04-18 08:09:13,691 Loaded model from epoch: 999
+2025-04-18 08:09:13,693 ###########test set wi/wo postprocess###########
+2025-04-18 08:09:13,693 Testing t2
+2025-04-18 08:13:49,665 Loaded model from epoch: 999
+2025-04-18 08:13:49,667 ###########test set wi/wo postprocess###########
+2025-04-18 08:13:49,667 Testing t2
+2025-04-18 09:44:28,650 Loaded model from epoch: 999
+2025-04-18 09:44:28,654 ###########test set wi/wo postprocess###########
+2025-04-18 09:44:28,654 Testing t2
+2025-04-18 09:55:20,774 Loaded model from epoch: 999
+2025-04-18 09:55:20,776 ###########test set wi/wo postprocess###########
+2025-04-18 09:55:20,776 Testing t2
+2025-04-18 09:55:43,965 Loaded model from epoch: 999
+2025-04-18 09:55:43,968 ###########test set wi/wo postprocess###########
+2025-04-18 09:55:43,968 Testing t2
+2025-04-18 12:03:55,013 Loaded model from epoch: 999
+2025-04-18 12:03:55,015 ###########test set wi/wo postprocess###########
+2025-04-18 12:03:55,015 Testing t2
+2025-04-18 12:05:01,894 Loaded model from epoch: 999
+2025-04-18 12:05:01,896 ###########test set wi/wo postprocess###########
+2025-04-18 12:05:01,896 Testing t2
+2025-04-18 12:06:57,238 Loaded model from epoch: 999
+2025-04-18 12:06:57,240 ###########test set wi/wo postprocess###########
+2025-04-18 12:06:57,240 Testing t2
+2025-04-18 12:08:59,969 Loaded model from epoch: 999
+2025-04-18 12:08:59,972 ###########test set wi/wo postprocess###########
+2025-04-18 12:08:59,972 Testing t2
+2025-04-18 12:09:45,803 Loaded model from epoch: 999
+2025-04-18 12:09:45,805 ###########test set wi/wo postprocess###########
+2025-04-18 12:09:45,806 Testing t2
+2025-04-18 12:10:57,492 Loaded model from epoch: 999
+2025-04-18 12:10:57,495 ###########test set wi/wo postprocess###########
+2025-04-18 12:10:57,496 Testing t2
+2025-04-18 12:11:02,093 Subject 1/95, 1/1HGG_Brats18_CBICA_AQR_1, whole: 0.8554, core: 0.6653, enhancing: 0.5462, enhancing_postpro: 0.5462
+2025-04-18 12:11:04,464 Subject 2/95, 1/1HGG_Brats18_TCIA04_361_1, whole: 0.9014, core: 0.8039, enhancing: 0.7304, enhancing_postpro: 0.7304
+2025-04-18 12:11:06,771 Subject 3/95, 1/1HGG_Brats18_CBICA_AXM_1, whole: 0.8786, core: 0.8971, enhancing: 0.7166, enhancing_postpro: 0.7166
+2025-04-18 12:11:08,994 Subject 4/95, 1/1HGG_Brats18_TCIA08_406_1, whole: 0.5312, core: 0.1680, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:11:11,212 Subject 5/95, 1/1HGG_Brats18_TCIA06_165_1, whole: 0.9157, core: 0.7553, enhancing: 0.1806, enhancing_postpro: 0.1806
+2025-04-18 12:11:13,546 Subject 6/95, 1/1HGG_Brats18_CBICA_APY_1, whole: 0.8817, core: 0.7094, enhancing: 0.3902, enhancing_postpro: 0.3902
+2025-04-18 12:11:15,600 Subject 7/95, 1/1HGG_Brats18_TCIA01_180_1, whole: 0.8306, core: 0.7828, enhancing: 0.0487, enhancing_postpro: 0.0487
+2025-04-18 12:11:17,717 Subject 8/95, 1/1LGG_Brats18_TCIA10_266_1, whole: 0.8832, core: 0.7564, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:11:19,381 Subject 9/95, 1/1HGG_Brats18_2013_2_1, whole: 0.8075, core: 0.6835, enhancing: 0.6028, enhancing_postpro: 0.6028
+2025-04-18 12:11:21,229 Subject 10/95, 1/1HGG_Brats18_CBICA_AAL_1, whole: 0.6503, core: 0.7376, enhancing: 0.5443, enhancing_postpro: 0.5443
+2025-04-18 12:11:23,452 Subject 11/95, 1/1LGG_Brats18_TCIA12_249_1, whole: 0.8754, core: 0.9097, enhancing: 0.2952, enhancing_postpro: 0.0000
+2025-04-18 12:11:25,558 Subject 12/95, 1/1HGG_Brats18_TCIA06_409_1, whole: 0.7332, core: 0.6986, enhancing: 0.4071, enhancing_postpro: 0.4071
+2025-04-18 12:11:27,747 Subject 13/95, 1/1HGG_Brats18_2013_25_1, whole: 0.9084, core: 0.7533, enhancing: 0.2168, enhancing_postpro: 0.2168
+2025-04-18 12:11:29,872 Subject 14/95, 1/1HGG_Brats18_CBICA_AUN_1, whole: 0.8671, core: 0.8993, enhancing: 0.6745, enhancing_postpro: 0.6745
+2025-04-18 12:11:32,010 Subject 15/95, 1/1HGG_Brats18_CBICA_ARZ_1, whole: 0.5078, core: 0.1101, enhancing: 0.1590, enhancing_postpro: 0.1590
+2025-04-18 12:11:34,117 Subject 16/95, 1/1HGG_Brats18_TCIA06_247_1, whole: 0.8615, core: 0.8590, enhancing: 0.7303, enhancing_postpro: 0.7303
+2025-04-18 12:11:36,403 Subject 17/95, 1/1LGG_Brats18_TCIA09_402_1, whole: 0.8879, core: 0.8540, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:11:38,496 Subject 18/95, 1/1HGG_Brats18_TCIA03_338_1, whole: 0.3576, core: 0.6999, enhancing: 0.6027, enhancing_postpro: 0.6027
+2025-04-18 12:11:40,620 Subject 19/95, 1/1HGG_Brats18_TCIA08_218_1, whole: 0.9218, core: 0.7434, enhancing: 0.6840, enhancing_postpro: 0.6840
+2025-04-18 12:11:42,764 Subject 20/95, 1/1HGG_Brats18_TCIA02_179_1, whole: 0.8156, core: 0.7923, enhancing: 0.5897, enhancing_postpro: 0.5897
+2025-04-18 12:11:44,899 Subject 21/95, 1/1HGG_Brats18_TCIA02_394_1, whole: 0.7501, core: 0.7530, enhancing: 0.4427, enhancing_postpro: 0.4427
+2025-04-18 12:11:46,938 Subject 22/95, 1/1LGG_Brats18_TCIA10_202_1, whole: 0.8680, core: 0.8030, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:11:49,062 Subject 23/95, 1/1HGG_Brats18_CBICA_AZD_1, whole: 0.4389, core: 0.6788, enhancing: 0.4729, enhancing_postpro: 0.4729
+2025-04-18 12:11:51,110 Subject 24/95, 1/1LGG_Brats18_TCIA13_634_1, whole: 0.8616, core: 0.6768, enhancing: 0.0000, enhancing_postpro: 1.0000
+2025-04-18 12:11:53,490 Subject 25/95, 1/1HGG_Brats18_CBICA_BHK_1, whole: 0.7231, core: 0.4994, enhancing: 0.1753, enhancing_postpro: 0.1753
+2025-04-18 12:11:55,570 Subject 26/95, 1/1HGG_Brats18_TCIA01_150_1, whole: 0.9344, core: 0.8652, enhancing: 0.6668, enhancing_postpro: 0.6668
+2025-04-18 12:11:57,838 Subject 27/95, 1/1LGG_Brats18_2013_8_1, whole: 0.9037, core: 0.8585, enhancing: 0.0000, enhancing_postpro: 1.0000
+2025-04-18 12:11:59,995 Subject 28/95, 1/1LGG_Brats18_TCIA09_451_1, whole: 0.6690, core: 0.7073, enhancing: 0.0328, enhancing_postpro: 0.0328
+2025-04-18 12:12:02,059 Subject 29/95, 1/1HGG_Brats18_TCIA01_429_1, whole: 0.8843, core: 0.8698, enhancing: 0.7590, enhancing_postpro: 0.7590
+2025-04-18 12:12:04,446 Subject 30/95, 1/1LGG_Brats18_TCIA13_654_1, whole: 0.7467, core: 0.7301, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:12:06,666 Subject 31/95, 1/1LGG_Brats18_2013_1_1, whole: 0.8758, core: 0.4876, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:12:09,003 Subject 32/95, 1/1HGG_Brats18_2013_20_1, whole: 0.9128, core: 0.8293, enhancing: 0.6168, enhancing_postpro: 0.6168
+2025-04-18 12:12:11,550 Subject 33/95, 1/1HGG_Brats18_2013_17_1, whole: 0.9036, core: 0.8170, enhancing: 0.3503, enhancing_postpro: 0.3503
+2025-04-18 12:12:13,887 Subject 34/95, 1/1HGG_Brats18_TCIA08_205_1, whole: 0.8960, core: 0.8065, enhancing: 0.5941, enhancing_postpro: 0.5941
+2025-04-18 12:12:16,056 Subject 35/95, 1/1HGG_Brats18_CBICA_AXJ_1, whole: 0.8709, core: 0.3877, enhancing: 0.3900, enhancing_postpro: 0.3900
+2025-04-18 12:12:18,440 Subject 36/95, 1/1LGG_Brats18_TCIA13_642_1, whole: 0.8991, core: 0.5921, enhancing: 0.2005, enhancing_postpro: 0.2005
+2025-04-18 12:12:20,580 Subject 37/95, 1/1HGG_Brats18_CBICA_AYA_1, whole: 0.6516, core: 0.3615, enhancing: 0.2621, enhancing_postpro: 0.2621
+2025-04-18 12:12:22,742 Subject 38/95, 1/1HGG_Brats18_CBICA_BFB_1, whole: 0.8925, core: 0.6981, enhancing: 0.5651, enhancing_postpro: 0.5651
+2025-04-18 12:12:24,853 Subject 39/95, 1/1HGG_Brats18_2013_19_1, whole: 0.8046, core: 0.7787, enhancing: 0.3775, enhancing_postpro: 0.3775
+2025-04-18 12:12:26,854 Subject 40/95, 1/1HGG_Brats18_CBICA_ASA_1, whole: 0.8700, core: 0.7771, enhancing: 0.5798, enhancing_postpro: 0.5798
+2025-04-18 12:12:28,881 Subject 41/95, 1/1HGG_Brats18_CBICA_ASW_1, whole: 0.8683, core: 0.8182, enhancing: 0.6513, enhancing_postpro: 0.6513
+2025-04-18 12:12:31,039 Subject 42/95, 1/1HGG_Brats18_TCIA02_491_1, whole: 0.6792, core: 0.4282, enhancing: 0.1726, enhancing_postpro: 0.1726
+2025-04-18 12:12:33,153 Subject 43/95, 1/1HGG_Brats18_TCIA04_328_1, whole: 0.8054, core: 0.6178, enhancing: 0.4423, enhancing_postpro: 0.4423
+2025-04-18 12:12:35,340 Subject 44/95, 1/1HGG_Brats18_TCIA08_280_1, whole: 0.7187, core: 0.7622, enhancing: 0.6601, enhancing_postpro: 0.6601
+2025-04-18 12:12:37,452 Subject 45/95, 1/1LGG_Brats18_TCIA10_282_1, whole: 0.8043, core: 0.4470, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:12:39,587 Subject 46/95, 1/1HGG_Brats18_TCIA01_412_1, whole: 0.8803, core: 0.8445, enhancing: 0.6346, enhancing_postpro: 0.6346
+2025-04-18 12:12:41,658 Subject 47/95, 1/1HGG_Brats18_TCIA02_473_1, whole: 0.7547, core: 0.4370, enhancing: 0.3234, enhancing_postpro: 0.3234
+2025-04-18 12:12:43,721 Subject 48/95, 1/1HGG_Brats18_TCIA08_436_1, whole: 0.8888, core: 0.8342, enhancing: 0.1082, enhancing_postpro: 0.1082
+2025-04-18 12:12:45,977 Subject 49/95, 1/1HGG_Brats18_CBICA_ASY_1, whole: 0.8970, core: 0.7457, enhancing: 0.5734, enhancing_postpro: 0.5734
+2025-04-18 12:12:48,274 Subject 50/95, 1/1LGG_Brats18_TCIA12_470_1, whole: 0.8629, core: 0.3124, enhancing: 0.1712, enhancing_postpro: 0.1712
+2025-04-18 12:12:50,606 Subject 51/95, 1/1HGG_Brats18_CBICA_AQY_1, whole: 0.9025, core: 0.8969, enhancing: 0.6538, enhancing_postpro: 0.6538
+2025-04-18 12:12:52,787 Subject 52/95, 1/1LGG_Brats18_TCIA13_633_1, whole: 0.7493, core: 0.1761, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:12:55,043 Subject 53/95, 1/1LGG_Brats18_TCIA12_480_1, whole: 0.9270, core: 0.8174, enhancing: 0.0588, enhancing_postpro: 0.0588
+2025-04-18 12:12:57,190 Subject 54/95, 1/1LGG_Brats18_TCIA09_254_1, whole: 0.8522, core: 0.7219, enhancing: 0.0000, enhancing_postpro: 1.0000
+2025-04-18 12:12:58,985 Subject 55/95, 1/1HGG_Brats18_CBICA_ATD_1, whole: 0.9236, core: 0.8509, enhancing: 0.6877, enhancing_postpro: 0.6877
+2025-04-18 12:13:01,288 Subject 56/95, 1/1HGG_Brats18_TCIA02_368_1, whole: 0.8902, core: 0.8697, enhancing: 0.7436, enhancing_postpro: 0.7436
+2025-04-18 12:13:03,405 Subject 57/95, 1/1LGG_Brats18_TCIA10_410_1, whole: 0.6894, core: 0.1222, enhancing: 0.0309, enhancing_postpro: 0.0309
+2025-04-18 12:13:05,620 Subject 58/95, 1/1HGG_Brats18_CBICA_AAB_1, whole: 0.8977, core: 0.8077, enhancing: 0.4304, enhancing_postpro: 0.4304
+2025-04-18 12:13:07,825 Subject 59/95, 1/1HGG_Brats18_CBICA_APZ_1, whole: 0.6618, core: 0.8346, enhancing: 0.6948, enhancing_postpro: 0.6948
+2025-04-18 12:13:09,866 Subject 60/95, 1/1LGG_Brats18_TCIA10_490_1, whole: 0.8969, core: 0.8947, enhancing: 0.3336, enhancing_postpro: 0.3336
+2025-04-18 12:13:11,946 Subject 61/95, 1/1LGG_Brats18_2013_24_1, whole: 0.7620, core: 0.8832, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:13:14,167 Subject 62/95, 1/1HGG_Brats18_TCIA03_199_1, whole: 0.9260, core: 0.8383, enhancing: 0.6087, enhancing_postpro: 0.6087
+2025-04-18 12:13:16,276 Subject 63/95, 1/1LGG_Brats18_TCIA09_255_1, whole: 0.6895, core: 0.1233, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:13:18,700 Subject 64/95, 1/1HGG_Brats18_TCIA03_257_1, whole: 0.8525, core: 0.7111, enhancing: 0.4696, enhancing_postpro: 0.4696
+2025-04-18 12:13:20,922 Subject 65/95, 1/1HGG_Brats18_CBICA_ABN_1, whole: 0.7583, core: 0.2619, enhancing: 0.0033, enhancing_postpro: 0.0000
+2025-04-18 12:13:23,048 Subject 66/95, 1/1HGG_Brats18_TCIA02_171_1, whole: 0.8259, core: 0.3098, enhancing: 0.1308, enhancing_postpro: 0.1308
+2025-04-18 12:13:25,252 Subject 67/95, 1/1LGG_Brats18_TCIA10_325_1, whole: 0.8743, core: 0.7243, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:13:27,501 Subject 68/95, 1/1HGG_Brats18_CBICA_ANP_1, whole: 0.6107, core: 0.0750, enhancing: 0.0569, enhancing_postpro: 0.0569
+2025-04-18 12:13:29,533 Subject 69/95, 1/1LGG_Brats18_2013_0_1, whole: 0.7479, core: 0.8596, enhancing: 0.2095, enhancing_postpro: 0.2095
+2025-04-18 12:13:31,564 Subject 70/95, 1/1HGG_Brats18_TCIA02_377_1, whole: 0.9310, core: 0.8966, enhancing: 0.7862, enhancing_postpro: 0.7862
+2025-04-18 12:13:33,703 Subject 71/95, 1/1HGG_Brats18_TCIA02_606_1, whole: 0.8906, core: 0.6725, enhancing: 0.2628, enhancing_postpro: 0.2628
+2025-04-18 12:13:35,789 Subject 72/95, 1/1HGG_Brats18_TCIA01_221_1, whole: 0.8923, core: 0.7083, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:13:38,005 Subject 73/95, 1/1LGG_Brats18_TCIA10_393_1, whole: 0.9306, core: 0.8451, enhancing: 0.1248, enhancing_postpro: 0.1248
+2025-04-18 12:13:40,030 Subject 74/95, 1/1HGG_Brats18_TCIA06_211_1, whole: 0.8496, core: 0.8574, enhancing: 0.5821, enhancing_postpro: 0.5821
+2025-04-18 12:13:42,195 Subject 75/95, 1/1LGG_Brats18_2013_28_1, whole: 0.8467, core: 0.6668, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:13:44,372 Subject 76/95, 1/1LGG_Brats18_TCIA09_312_1, whole: 0.8648, core: 0.4936, enhancing: 0.1821, enhancing_postpro: 0.1821
+2025-04-18 12:13:46,693 Subject 77/95, 1/1HGG_Brats18_TCIA02_168_1, whole: 0.9361, core: 0.9129, enhancing: 0.7532, enhancing_postpro: 0.7532
+2025-04-18 12:13:48,731 Subject 78/95, 1/1LGG_Brats18_TCIA13_630_1, whole: 0.9091, core: 0.8450, enhancing: 0.0000, enhancing_postpro: 1.0000
+2025-04-18 12:13:50,933 Subject 79/95, 1/1HGG_Brats18_CBICA_AWI_1, whole: 0.7905, core: 0.7622, enhancing: 0.2953, enhancing_postpro: 0.2953
+2025-04-18 12:13:52,968 Subject 80/95, 1/1HGG_Brats18_CBICA_APR_1, whole: 0.8875, core: 0.8770, enhancing: 0.5522, enhancing_postpro: 0.5522
+2025-04-18 12:13:56,973 Subject 81/95, 1/1LGG_Brats18_TCIA09_462_1, whole: 0.8598, core: 0.5153, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:13:59,112 Subject 82/95, 1/1HGG_Brats18_TCIA08_167_1, whole: 0.8229, core: 0.8280, enhancing: 0.4026, enhancing_postpro: 0.4026
+2025-04-18 12:14:01,258 Subject 83/95, 1/1HGG_Brats18_TCIA03_138_1, whole: 0.8183, core: 0.8768, enhancing: 0.6823, enhancing_postpro: 0.6823
+2025-04-18 12:14:03,299 Subject 84/95, 1/1LGG_Brats18_TCIA12_298_1, whole: 0.8158, core: 0.8989, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:14:05,417 Subject 85/95, 1/1HGG_Brats18_CBICA_AQQ_1, whole: 0.6092, core: 0.6470, enhancing: 0.4120, enhancing_postpro: 0.4120
+2025-04-18 12:14:07,544 Subject 86/95, 1/1HGG_Brats18_TCIA01_499_1, whole: 0.8942, core: 0.7107, enhancing: 0.4215, enhancing_postpro: 0.4215
+2025-04-18 12:14:09,760 Subject 87/95, 1/1HGG_Brats18_2013_5_1, whole: 0.8943, core: 0.6996, enhancing: 0.5497, enhancing_postpro: 0.5497
+2025-04-18 12:14:11,909 Subject 88/95, 1/1HGG_Brats18_TCIA02_455_1, whole: 0.8871, core: 0.7818, enhancing: 0.6251, enhancing_postpro: 0.6251
+2025-04-18 12:14:13,959 Subject 89/95, 1/1LGG_Brats18_TCIA10_175_1, whole: 0.9025, core: 0.7585, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:14:16,040 Subject 90/95, 1/1LGG_Brats18_TCIA10_130_1, whole: 0.8342, core: 0.5264, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:14:18,136 Subject 91/95, 1/1LGG_Brats18_TCIA10_152_1, whole: 0.8605, core: 0.3996, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:14:20,310 Subject 92/95, 1/1HGG_Brats18_CBICA_ASU_1, whole: 0.8749, core: 0.8276, enhancing: 0.6366, enhancing_postpro: 0.6366
+2025-04-18 12:14:22,526 Subject 93/95, 1/1LGG_Brats18_TCIA10_330_1, whole: 0.8548, core: 0.7846, enhancing: 0.1178, enhancing_postpro: 0.1178
+2025-04-18 12:14:25,068 Subject 94/95, 1/1LGG_Brats18_TCIA09_620_1, whole: 0.4775, core: 0.1470, enhancing: 0.2432, enhancing_postpro: 0.2432
+2025-04-18 12:14:27,087 Subject 95/95, 1/1LGG_Brats18_TCIA13_615_1, whole: 0.8697, core: 0.3983, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:14:27,089 Testing t1c
+2025-04-18 12:14:29,187 Subject 1/95, 1/1HGG_Brats18_CBICA_AQR_1, whole: 0.7957, core: 0.8232, enhancing: 0.7308, enhancing_postpro: 0.7308
+2025-04-18 12:14:31,263 Subject 2/95, 1/1HGG_Brats18_TCIA04_361_1, whole: 0.8908, core: 0.9180, enhancing: 0.8777, enhancing_postpro: 0.8777
+2025-04-18 12:14:33,383 Subject 3/95, 1/1HGG_Brats18_CBICA_AXM_1, whole: 0.8524, core: 0.9505, enhancing: 0.8451, enhancing_postpro: 0.8451
+2025-04-18 12:14:35,472 Subject 4/95, 1/1HGG_Brats18_TCIA08_406_1, whole: 0.8503, core: 0.8086, enhancing: 0.8034, enhancing_postpro: 0.8034
+2025-04-18 12:14:37,575 Subject 5/95, 1/1HGG_Brats18_TCIA06_165_1, whole: 0.9091, core: 0.8345, enhancing: 0.6802, enhancing_postpro: 0.6802
+2025-04-18 12:14:39,819 Subject 6/95, 1/1HGG_Brats18_CBICA_APY_1, whole: 0.8471, core: 0.7735, enhancing: 0.6945, enhancing_postpro: 0.6945
+2025-04-18 12:14:41,784 Subject 7/95, 1/1HGG_Brats18_TCIA01_180_1, whole: 0.7925, core: 0.8554, enhancing: 0.6844, enhancing_postpro: 0.6844
+2025-04-18 12:14:43,813 Subject 8/95, 1/1LGG_Brats18_TCIA10_266_1, whole: 0.8036, core: 0.7448, enhancing: 0.0000, enhancing_postpro: 1.0000
+2025-04-18 12:14:45,365 Subject 9/95, 1/1HGG_Brats18_2013_2_1, whole: 0.7552, core: 0.8377, enhancing: 0.8192, enhancing_postpro: 0.8192
+2025-04-18 12:14:47,168 Subject 10/95, 1/1HGG_Brats18_CBICA_AAL_1, whole: 0.3678, core: 0.8962, enhancing: 0.8447, enhancing_postpro: 0.8447
+2025-04-18 12:14:49,317 Subject 11/95, 1/1LGG_Brats18_TCIA12_249_1, whole: 0.8747, core: 0.9295, enhancing: 0.0870, enhancing_postpro: 0.0000
+2025-04-18 12:14:51,399 Subject 12/95, 1/1HGG_Brats18_TCIA06_409_1, whole: 0.7127, core: 0.7056, enhancing: 0.6822, enhancing_postpro: 0.6822
+2025-04-18 12:14:53,517 Subject 13/95, 1/1HGG_Brats18_2013_25_1, whole: 0.8297, core: 0.4702, enhancing: 0.5568, enhancing_postpro: 0.0000
+2025-04-18 12:14:55,496 Subject 14/95, 1/1HGG_Brats18_CBICA_AUN_1, whole: 0.8428, core: 0.9526, enhancing: 0.8902, enhancing_postpro: 0.8902
+2025-04-18 12:14:57,591 Subject 15/95, 1/1HGG_Brats18_CBICA_ARZ_1, whole: 0.4678, core: 0.6286, enhancing: 0.7542, enhancing_postpro: 0.7542
+2025-04-18 12:14:59,684 Subject 16/95, 1/1HGG_Brats18_TCIA06_247_1, whole: 0.7595, core: 0.8755, enhancing: 0.8184, enhancing_postpro: 0.8184
+2025-04-18 12:15:01,929 Subject 17/95, 1/1LGG_Brats18_TCIA09_402_1, whole: 0.8090, core: 0.8502, enhancing: 0.0000, enhancing_postpro: 1.0000
+2025-04-18 12:15:03,960 Subject 18/95, 1/1HGG_Brats18_TCIA03_338_1, whole: 0.4996, core: 0.6810, enhancing: 0.8981, enhancing_postpro: 0.8981
+2025-04-18 12:15:05,962 Subject 19/95, 1/1HGG_Brats18_TCIA08_218_1, whole: 0.8686, core: 0.9236, enhancing: 0.9162, enhancing_postpro: 0.9162
+2025-04-18 12:15:08,003 Subject 20/95, 1/1HGG_Brats18_TCIA02_179_1, whole: 0.7751, core: 0.9405, enhancing: 0.9087, enhancing_postpro: 0.9087
+2025-04-18 12:15:10,093 Subject 21/95, 1/1HGG_Brats18_TCIA02_394_1, whole: 0.8129, core: 0.9385, enhancing: 0.8450, enhancing_postpro: 0.8450
+2025-04-18 12:15:12,086 Subject 22/95, 1/1LGG_Brats18_TCIA10_202_1, whole: 0.8482, core: 0.8587, enhancing: 0.0012, enhancing_postpro: 0.0012
+2025-04-18 12:15:14,148 Subject 23/95, 1/1HGG_Brats18_CBICA_AZD_1, whole: 0.6600, core: 0.8640, enhancing: 0.7558, enhancing_postpro: 0.7558
+2025-04-18 12:15:16,156 Subject 24/95, 1/1LGG_Brats18_TCIA13_634_1, whole: 0.8639, core: 0.6771, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:15:18,386 Subject 25/95, 1/1HGG_Brats18_CBICA_BHK_1, whole: 0.5881, core: 0.2511, enhancing: 0.3689, enhancing_postpro: 0.0000
+2025-04-18 12:15:20,394 Subject 26/95, 1/1HGG_Brats18_TCIA01_150_1, whole: 0.7037, core: 0.8781, enhancing: 0.8499, enhancing_postpro: 0.8499
+2025-04-18 12:15:22,565 Subject 27/95, 1/1LGG_Brats18_2013_8_1, whole: 0.8299, core: 0.8810, enhancing: 0.0000, enhancing_postpro: 1.0000
+2025-04-18 12:15:24,640 Subject 28/95, 1/1LGG_Brats18_TCIA09_451_1, whole: 0.6687, core: 0.8969, enhancing: 0.4141, enhancing_postpro: 0.0000
+2025-04-18 12:15:26,591 Subject 29/95, 1/1HGG_Brats18_TCIA01_429_1, whole: 0.8259, core: 0.9591, enhancing: 0.9237, enhancing_postpro: 0.9237
+2025-04-18 12:15:28,869 Subject 30/95, 1/1LGG_Brats18_TCIA13_654_1, whole: 0.7811, core: 0.8415, enhancing: 0.5766, enhancing_postpro: 0.5766
+2025-04-18 12:15:31,017 Subject 31/95, 1/1LGG_Brats18_2013_1_1, whole: 0.6522, core: 0.3036, enhancing: 0.0000, enhancing_postpro: 1.0000
+2025-04-18 12:15:33,333 Subject 32/95, 1/1HGG_Brats18_2013_20_1, whole: 0.8192, core: 0.8700, enhancing: 0.8097, enhancing_postpro: 0.8097
+2025-04-18 12:15:35,809 Subject 33/95, 1/1HGG_Brats18_2013_17_1, whole: 0.8788, core: 0.9057, enhancing: 0.9199, enhancing_postpro: 0.9199
+2025-04-18 12:15:37,948 Subject 34/95, 1/1HGG_Brats18_TCIA08_205_1, whole: 0.6662, core: 0.8012, enhancing: 0.5508, enhancing_postpro: 0.5508
+2025-04-18 12:15:39,978 Subject 35/95, 1/1HGG_Brats18_CBICA_AXJ_1, whole: 0.8943, core: 0.7685, enhancing: 0.7904, enhancing_postpro: 0.7904
+2025-04-18 12:15:42,242 Subject 36/95, 1/1LGG_Brats18_TCIA13_642_1, whole: 0.9076, core: 0.6539, enhancing: 0.2786, enhancing_postpro: 0.2786
+2025-04-18 12:15:44,269 Subject 37/95, 1/1HGG_Brats18_CBICA_AYA_1, whole: 0.5360, core: 0.9066, enhancing: 0.8205, enhancing_postpro: 0.8205
+2025-04-18 12:15:46,357 Subject 38/95, 1/1HGG_Brats18_CBICA_BFB_1, whole: 0.8466, core: 0.8965, enhancing: 0.8582, enhancing_postpro: 0.8582
+2025-04-18 12:15:48,435 Subject 39/95, 1/1HGG_Brats18_2013_19_1, whole: 0.7666, core: 0.8560, enhancing: 0.7698, enhancing_postpro: 0.7698
+2025-04-18 12:15:50,392 Subject 40/95, 1/1HGG_Brats18_CBICA_ASA_1, whole: 0.8602, core: 0.9427, enhancing: 0.8882, enhancing_postpro: 0.8882
+2025-04-18 12:15:52,405 Subject 41/95, 1/1HGG_Brats18_CBICA_ASW_1, whole: 0.7554, core: 0.9340, enhancing: 0.8901, enhancing_postpro: 0.8901
+2025-04-18 12:15:54,573 Subject 42/95, 1/1HGG_Brats18_TCIA02_491_1, whole: 0.7627, core: 0.9373, enhancing: 0.9170, enhancing_postpro: 0.9170
+2025-04-18 12:15:56,645 Subject 43/95, 1/1HGG_Brats18_TCIA04_328_1, whole: 0.5524, core: 0.6943, enhancing: 0.7892, enhancing_postpro: 0.7892
+2025-04-18 12:15:58,741 Subject 44/95, 1/1HGG_Brats18_TCIA08_280_1, whole: 0.8377, core: 0.8521, enhancing: 0.8703, enhancing_postpro: 0.8703
+2025-04-18 12:16:00,784 Subject 45/95, 1/1LGG_Brats18_TCIA10_282_1, whole: 0.7327, core: 0.5625, enhancing: 0.4419, enhancing_postpro: 0.4419
+2025-04-18 12:16:02,847 Subject 46/95, 1/1HGG_Brats18_TCIA01_412_1, whole: 0.8165, core: 0.9264, enhancing: 0.8560, enhancing_postpro: 0.8560
+2025-04-18 12:16:04,876 Subject 47/95, 1/1HGG_Brats18_TCIA02_473_1, whole: 0.6777, core: 0.9170, enhancing: 0.9204, enhancing_postpro: 0.9204
+2025-04-18 12:16:06,869 Subject 48/95, 1/1HGG_Brats18_TCIA08_436_1, whole: 0.8068, core: 0.9099, enhancing: 0.8363, enhancing_postpro: 0.8363
+2025-04-18 12:16:09,098 Subject 49/95, 1/1HGG_Brats18_CBICA_ASY_1, whole: 0.8786, core: 0.9235, enhancing: 0.8973, enhancing_postpro: 0.8973
+2025-04-18 12:16:11,343 Subject 50/95, 1/1LGG_Brats18_TCIA12_470_1, whole: 0.6704, core: 0.6820, enhancing: 0.7814, enhancing_postpro: 0.7814
+2025-04-18 12:16:13,718 Subject 51/95, 1/1HGG_Brats18_CBICA_AQY_1, whole: 0.8582, core: 0.9524, enhancing: 0.8714, enhancing_postpro: 0.8714
+2025-04-18 12:16:15,950 Subject 52/95, 1/1LGG_Brats18_TCIA13_633_1, whole: 0.6065, core: 0.1499, enhancing: 0.5515, enhancing_postpro: 0.5515
+2025-04-18 12:16:18,193 Subject 53/95, 1/1LGG_Brats18_TCIA12_480_1, whole: 0.9107, core: 0.7320, enhancing: 0.5921, enhancing_postpro: 0.5921
+2025-04-18 12:16:20,265 Subject 54/95, 1/1LGG_Brats18_TCIA09_254_1, whole: 0.8848, core: 0.6975, enhancing: 0.0000, enhancing_postpro: 1.0000
+2025-04-18 12:16:21,935 Subject 55/95, 1/1HGG_Brats18_CBICA_ATD_1, whole: 0.8791, core: 0.9230, enhancing: 0.8653, enhancing_postpro: 0.8653
+2025-04-18 12:16:24,223 Subject 56/95, 1/1HGG_Brats18_TCIA02_368_1, whole: 0.8856, core: 0.9320, enhancing: 0.8553, enhancing_postpro: 0.8553
+2025-04-18 12:16:26,321 Subject 57/95, 1/1LGG_Brats18_TCIA10_410_1, whole: 0.7849, core: 0.6293, enhancing: 0.8225, enhancing_postpro: 0.8225
+2025-04-18 12:16:28,446 Subject 58/95, 1/1HGG_Brats18_CBICA_AAB_1, whole: 0.8513, core: 0.9266, enhancing: 0.8934, enhancing_postpro: 0.8934
+2025-04-18 12:16:30,566 Subject 59/95, 1/1HGG_Brats18_CBICA_APZ_1, whole: 0.7551, core: 0.9158, enhancing: 0.8215, enhancing_postpro: 0.8215
+2025-04-18 12:16:32,547 Subject 60/95, 1/1LGG_Brats18_TCIA10_490_1, whole: 0.9311, core: 0.8681, enhancing: 0.7187, enhancing_postpro: 0.7187
+2025-04-18 12:16:34,567 Subject 61/95, 1/1LGG_Brats18_2013_24_1, whole: 0.8624, core: 0.8949, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:16:36,639 Subject 62/95, 1/1HGG_Brats18_TCIA03_199_1, whole: 0.8715, core: 0.9325, enhancing: 0.9063, enhancing_postpro: 0.9063
+2025-04-18 12:16:38,638 Subject 63/95, 1/1LGG_Brats18_TCIA09_255_1, whole: 0.7894, core: 0.7655, enhancing: 0.6308, enhancing_postpro: 0.6308
+2025-04-18 12:16:41,012 Subject 64/95, 1/1HGG_Brats18_TCIA03_257_1, whole: 0.7441, core: 0.9159, enhancing: 0.8625, enhancing_postpro: 0.8625
+2025-04-18 12:16:43,164 Subject 65/95, 1/1HGG_Brats18_CBICA_ABN_1, whole: 0.7616, core: 0.7930, enhancing: 0.7837, enhancing_postpro: 0.7837
+2025-04-18 12:16:45,245 Subject 66/95, 1/1HGG_Brats18_TCIA02_171_1, whole: 0.8877, core: 0.8824, enhancing: 0.8773, enhancing_postpro: 0.8773
+2025-04-18 12:16:47,297 Subject 67/95, 1/1LGG_Brats18_TCIA10_325_1, whole: 0.6582, core: 0.6577, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:16:49,384 Subject 68/95, 1/1HGG_Brats18_CBICA_ANP_1, whole: 0.5277, core: 0.6178, enhancing: 0.7361, enhancing_postpro: 0.7361
+2025-04-18 12:16:51,303 Subject 69/95, 1/1LGG_Brats18_2013_0_1, whole: 0.6146, core: 0.6767, enhancing: 0.6253, enhancing_postpro: 0.6253
+2025-04-18 12:16:53,244 Subject 70/95, 1/1HGG_Brats18_TCIA02_377_1, whole: 0.8910, core: 0.9543, enhancing: 0.8966, enhancing_postpro: 0.8966
+2025-04-18 12:16:55,308 Subject 71/95, 1/1HGG_Brats18_TCIA02_606_1, whole: 0.8011, core: 0.8037, enhancing: 0.6867, enhancing_postpro: 0.6867
+2025-04-18 12:16:57,370 Subject 72/95, 1/1HGG_Brats18_TCIA01_221_1, whole: 0.8894, core: 0.8775, enhancing: 0.6911, enhancing_postpro: 0.6911
+2025-04-18 12:16:59,480 Subject 73/95, 1/1LGG_Brats18_TCIA10_393_1, whole: 0.8290, core: 0.8642, enhancing: 0.5555, enhancing_postpro: 0.5555
+2025-04-18 12:17:01,437 Subject 74/95, 1/1HGG_Brats18_TCIA06_211_1, whole: 0.8558, core: 0.8810, enhancing: 0.8197, enhancing_postpro: 0.8197
+2025-04-18 12:17:03,507 Subject 75/95, 1/1LGG_Brats18_2013_28_1, whole: 0.7452, core: 0.3747, enhancing: 0.4118, enhancing_postpro: 0.4118
+2025-04-18 12:17:05,698 Subject 76/95, 1/1LGG_Brats18_TCIA09_312_1, whole: 0.7469, core: 0.8902, enhancing: 0.8401, enhancing_postpro: 0.8401
+2025-04-18 12:17:07,988 Subject 77/95, 1/1HGG_Brats18_TCIA02_168_1, whole: 0.8921, core: 0.9332, enhancing: 0.8919, enhancing_postpro: 0.8919
+2025-04-18 12:17:09,988 Subject 78/95, 1/1LGG_Brats18_TCIA13_630_1, whole: 0.8301, core: 0.8651, enhancing: 0.0000, enhancing_postpro: 1.0000
+2025-04-18 12:17:12,165 Subject 79/95, 1/1HGG_Brats18_CBICA_AWI_1, whole: 0.8159, core: 0.8658, enhancing: 0.7194, enhancing_postpro: 0.7194
+2025-04-18 12:17:14,152 Subject 80/95, 1/1HGG_Brats18_CBICA_APR_1, whole: 0.8756, core: 0.9644, enhancing: 0.8866, enhancing_postpro: 0.8866
+2025-04-18 12:17:16,248 Subject 81/95, 1/1LGG_Brats18_TCIA09_462_1, whole: 0.5496, core: 0.1929, enhancing: 0.0000, enhancing_postpro: 1.0000
+2025-04-18 12:17:18,250 Subject 82/95, 1/1HGG_Brats18_TCIA08_167_1, whole: 0.8497, core: 0.9546, enhancing: 0.8976, enhancing_postpro: 0.8976
+2025-04-18 12:17:20,439 Subject 83/95, 1/1HGG_Brats18_TCIA03_138_1, whole: 0.8478, core: 0.9191, enhancing: 0.8432, enhancing_postpro: 0.8432
+2025-04-18 12:17:22,394 Subject 84/95, 1/1LGG_Brats18_TCIA12_298_1, whole: 0.8527, core: 0.8800, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:17:24,457 Subject 85/95, 1/1HGG_Brats18_CBICA_AQQ_1, whole: 0.6969, core: 0.7760, enhancing: 0.7697, enhancing_postpro: 0.7697
+2025-04-18 12:17:26,599 Subject 86/95, 1/1HGG_Brats18_TCIA01_499_1, whole: 0.6865, core: 0.9643, enhancing: 0.9360, enhancing_postpro: 0.9360
+2025-04-18 12:17:28,799 Subject 87/95, 1/1HGG_Brats18_2013_5_1, whole: 0.8781, core: 0.8453, enhancing: 0.8592, enhancing_postpro: 0.8592
+2025-04-18 12:17:30,925 Subject 88/95, 1/1HGG_Brats18_TCIA02_455_1, whole: 0.8922, core: 0.9361, enhancing: 0.9201, enhancing_postpro: 0.9201
+2025-04-18 12:17:32,908 Subject 89/95, 1/1LGG_Brats18_TCIA10_175_1, whole: 0.8027, core: 0.7697, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:17:34,898 Subject 90/95, 1/1LGG_Brats18_TCIA10_130_1, whole: 0.7901, core: 0.6409, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:17:36,845 Subject 91/95, 1/1LGG_Brats18_TCIA10_152_1, whole: 0.7902, core: 0.5541, enhancing: 0.9177, enhancing_postpro: 0.9177
+2025-04-18 12:17:38,937 Subject 92/95, 1/1HGG_Brats18_CBICA_ASU_1, whole: 0.8458, core: 0.9390, enhancing: 0.8602, enhancing_postpro: 0.8602
+2025-04-18 12:17:41,045 Subject 93/95, 1/1LGG_Brats18_TCIA10_330_1, whole: 0.7509, core: 0.7611, enhancing: 0.4266, enhancing_postpro: 0.4266
+2025-04-18 12:17:43,482 Subject 94/95, 1/1LGG_Brats18_TCIA09_620_1, whole: 0.5585, core: 0.8162, enhancing: 0.8895, enhancing_postpro: 0.8895
+2025-04-18 12:17:45,419 Subject 95/95, 1/1LGG_Brats18_TCIA13_615_1, whole: 0.8477, core: 0.5554, enhancing: 0.3932, enhancing_postpro: 0.3932
+2025-04-18 12:17:45,421 Testing t1
+2025-04-18 12:17:47,492 Subject 1/95, 1/1HGG_Brats18_CBICA_AQR_1, whole: 0.8241, core: 0.5224, enhancing: 0.2318, enhancing_postpro: 0.2318
+2025-04-18 12:17:49,565 Subject 2/95, 1/1HGG_Brats18_TCIA04_361_1, whole: 0.8543, core: 0.5692, enhancing: 0.4091, enhancing_postpro: 0.4091
+2025-04-18 12:17:51,687 Subject 3/95, 1/1HGG_Brats18_CBICA_AXM_1, whole: 0.8582, core: 0.7997, enhancing: 0.4368, enhancing_postpro: 0.4368
+2025-04-18 12:17:53,984 Subject 4/95, 1/1HGG_Brats18_TCIA08_406_1, whole: 0.7349, core: 0.3293, enhancing: 0.4095, enhancing_postpro: 0.4095
+2025-04-18 12:17:56,060 Subject 5/95, 1/1HGG_Brats18_TCIA06_165_1, whole: 0.9022, core: 0.7438, enhancing: 0.2268, enhancing_postpro: 0.2268
+2025-04-18 12:17:58,303 Subject 6/95, 1/1HGG_Brats18_CBICA_APY_1, whole: 0.7941, core: 0.7933, enhancing: 0.4957, enhancing_postpro: 0.4957
+2025-04-18 12:18:00,264 Subject 7/95, 1/1HGG_Brats18_TCIA01_180_1, whole: 0.8424, core: 0.8200, enhancing: 0.2093, enhancing_postpro: 0.2093
+2025-04-18 12:18:02,272 Subject 8/95, 1/1LGG_Brats18_TCIA10_266_1, whole: 0.8042, core: 0.6676, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:18:03,814 Subject 9/95, 1/1HGG_Brats18_2013_2_1, whole: 0.6822, core: 0.6702, enhancing: 0.4214, enhancing_postpro: 0.4214
+2025-04-18 12:18:05,549 Subject 10/95, 1/1HGG_Brats18_CBICA_AAL_1, whole: 0.2782, core: 0.8436, enhancing: 0.6606, enhancing_postpro: 0.6606
+2025-04-18 12:18:07,646 Subject 11/95, 1/1LGG_Brats18_TCIA12_249_1, whole: 0.8519, core: 0.7922, enhancing: 0.0019, enhancing_postpro: 0.0019
+2025-04-18 12:18:09,657 Subject 12/95, 1/1HGG_Brats18_TCIA06_409_1, whole: 0.7874, core: 0.6379, enhancing: 0.4196, enhancing_postpro: 0.4196
+2025-04-18 12:18:11,752 Subject 13/95, 1/1HGG_Brats18_2013_25_1, whole: 0.7709, core: 0.7445, enhancing: 0.0849, enhancing_postpro: 0.0849
+2025-04-18 12:18:13,757 Subject 14/95, 1/1HGG_Brats18_CBICA_AUN_1, whole: 0.8206, core: 0.8906, enhancing: 0.6978, enhancing_postpro: 0.6978
+2025-04-18 12:18:15,826 Subject 15/95, 1/1HGG_Brats18_CBICA_ARZ_1, whole: 0.2300, core: 0.3750, enhancing: 0.4117, enhancing_postpro: 0.0000
+2025-04-18 12:18:17,854 Subject 16/95, 1/1HGG_Brats18_TCIA06_247_1, whole: 0.7110, core: 0.8071, enhancing: 0.5377, enhancing_postpro: 0.5377
+2025-04-18 12:18:20,048 Subject 17/95, 1/1LGG_Brats18_TCIA09_402_1, whole: 0.6657, core: 0.7197, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:18:22,073 Subject 18/95, 1/1HGG_Brats18_TCIA03_338_1, whole: 0.2566, core: 0.3651, enhancing: 0.5153, enhancing_postpro: 0.5153
+2025-04-18 12:18:24,063 Subject 19/95, 1/1HGG_Brats18_TCIA08_218_1, whole: 0.7494, core: 0.5252, enhancing: 0.3507, enhancing_postpro: 0.3507
+2025-04-18 12:18:26,139 Subject 20/95, 1/1HGG_Brats18_TCIA02_179_1, whole: 0.7689, core: 0.7599, enhancing: 0.5922, enhancing_postpro: 0.5922
+2025-04-18 12:18:28,271 Subject 21/95, 1/1HGG_Brats18_TCIA02_394_1, whole: 0.8181, core: 0.8378, enhancing: 0.5819, enhancing_postpro: 0.5819
+2025-04-18 12:18:30,332 Subject 22/95, 1/1LGG_Brats18_TCIA10_202_1, whole: 0.8711, core: 0.8613, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:18:32,453 Subject 23/95, 1/1HGG_Brats18_CBICA_AZD_1, whole: 0.4798, core: 0.4382, enhancing: 0.2359, enhancing_postpro: 0.2359
+2025-04-18 12:18:34,467 Subject 24/95, 1/1LGG_Brats18_TCIA13_634_1, whole: 0.9024, core: 0.7266, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:18:36,748 Subject 25/95, 1/1HGG_Brats18_CBICA_BHK_1, whole: 0.8193, core: 0.0058, enhancing: 0.0140, enhancing_postpro: 0.0000
+2025-04-18 12:18:38,783 Subject 26/95, 1/1HGG_Brats18_TCIA01_150_1, whole: 0.6980, core: 0.7927, enhancing: 0.5718, enhancing_postpro: 0.5718
+2025-04-18 12:18:40,947 Subject 27/95, 1/1LGG_Brats18_2013_8_1, whole: 0.6808, core: 0.7567, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:18:43,124 Subject 28/95, 1/1LGG_Brats18_TCIA09_451_1, whole: 0.5839, core: 0.7239, enhancing: 0.0237, enhancing_postpro: 0.0237
+2025-04-18 12:18:45,091 Subject 29/95, 1/1HGG_Brats18_TCIA01_429_1, whole: 0.7539, core: 0.8298, enhancing: 0.6246, enhancing_postpro: 0.6246
+2025-04-18 12:18:47,356 Subject 30/95, 1/1LGG_Brats18_TCIA13_654_1, whole: 0.7195, core: 0.6436, enhancing: 0.3960, enhancing_postpro: 0.3960
+2025-04-18 12:18:49,491 Subject 31/95, 1/1LGG_Brats18_2013_1_1, whole: 0.4954, core: 0.3040, enhancing: 1.0000, enhancing_postpro: 1.0000
+2025-04-18 12:18:51,760 Subject 32/95, 1/1HGG_Brats18_2013_20_1, whole: 0.8550, core: 0.8503, enhancing: 0.5251, enhancing_postpro: 0.5251
+2025-04-18 12:18:54,253 Subject 33/95, 1/1HGG_Brats18_2013_17_1, whole: 0.8502, core: 0.7651, enhancing: 0.4955, enhancing_postpro: 0.4955
+2025-04-18 12:18:56,377 Subject 34/95, 1/1HGG_Brats18_TCIA08_205_1, whole: 0.7004, core: 0.3803, enhancing: 0.3260, enhancing_postpro: 0.3260
+2025-04-18 12:18:58,386 Subject 35/95, 1/1HGG_Brats18_CBICA_AXJ_1, whole: 0.8633, core: 0.3212, enhancing: 0.3510, enhancing_postpro: 0.3510
+2025-04-18 12:19:00,672 Subject 36/95, 1/1LGG_Brats18_TCIA13_642_1, whole: 0.8321, core: 0.5548, enhancing: 0.1424, enhancing_postpro: 0.1424
+2025-04-18 12:19:02,697 Subject 37/95, 1/1HGG_Brats18_CBICA_AYA_1, whole: 0.5609, core: 0.4664, enhancing: 0.2463, enhancing_postpro: 0.2463
+2025-04-18 12:19:04,799 Subject 38/95, 1/1HGG_Brats18_CBICA_BFB_1, whole: 0.8381, core: 0.7221, enhancing: 0.3902, enhancing_postpro: 0.3902
+2025-04-18 12:19:06,887 Subject 39/95, 1/1HGG_Brats18_2013_19_1, whole: 0.7740, core: 0.6147, enhancing: 0.0467, enhancing_postpro: 0.0467
+2025-04-18 12:19:08,871 Subject 40/95, 1/1HGG_Brats18_CBICA_ASA_1, whole: 0.8520, core: 0.8122, enhancing: 0.4925, enhancing_postpro: 0.4925
+2025-04-18 12:19:10,901 Subject 41/95, 1/1HGG_Brats18_CBICA_ASW_1, whole: 0.8331, core: 0.8131, enhancing: 0.4278, enhancing_postpro: 0.4278
+2025-04-18 12:19:13,080 Subject 42/95, 1/1HGG_Brats18_TCIA02_491_1, whole: 0.7750, core: 0.7622, enhancing: 0.5663, enhancing_postpro: 0.5663
+2025-04-18 12:19:15,198 Subject 43/95, 1/1HGG_Brats18_TCIA04_328_1, whole: 0.6473, core: 0.4612, enhancing: 0.1538, enhancing_postpro: 0.1538
+2025-04-18 12:19:17,354 Subject 44/95, 1/1HGG_Brats18_TCIA08_280_1, whole: 0.8041, core: 0.5696, enhancing: 0.4830, enhancing_postpro: 0.4830
+2025-04-18 12:19:19,402 Subject 45/95, 1/1LGG_Brats18_TCIA10_282_1, whole: 0.7861, core: 0.7229, enhancing: 0.0500, enhancing_postpro: 0.0500
+2025-04-18 12:19:21,471 Subject 46/95, 1/1HGG_Brats18_TCIA01_412_1, whole: 0.8372, core: 0.8318, enhancing: 0.4234, enhancing_postpro: 0.4234
+2025-04-18 12:19:23,504 Subject 47/95, 1/1HGG_Brats18_TCIA02_473_1, whole: 0.5831, core: 0.3544, enhancing: 0.4718, enhancing_postpro: 0.4718
+2025-04-18 12:19:25,512 Subject 48/95, 1/1HGG_Brats18_TCIA08_436_1, whole: 0.8039, core: 0.8335, enhancing: 0.4133, enhancing_postpro: 0.4133
+2025-04-18 12:19:27,778 Subject 49/95, 1/1HGG_Brats18_CBICA_ASY_1, whole: 0.8692, core: 0.7389, enhancing: 0.5371, enhancing_postpro: 0.5371
+2025-04-18 12:19:30,063 Subject 50/95, 1/1LGG_Brats18_TCIA12_470_1, whole: 0.6088, core: 0.6066, enhancing: 0.4934, enhancing_postpro: 0.4934
+2025-04-18 12:19:32,357 Subject 51/95, 1/1HGG_Brats18_CBICA_AQY_1, whole: 0.8612, core: 0.8926, enhancing: 0.6499, enhancing_postpro: 0.6499
+2025-04-18 12:19:34,480 Subject 52/95, 1/1LGG_Brats18_TCIA13_633_1, whole: 0.7466, core: 0.5533, enhancing: 0.0224, enhancing_postpro: 0.0224
+2025-04-18 12:19:36,638 Subject 53/95, 1/1LGG_Brats18_TCIA12_480_1, whole: 0.8733, core: 0.7665, enhancing: 0.0258, enhancing_postpro: 0.0258
+2025-04-18 12:19:38,670 Subject 54/95, 1/1LGG_Brats18_TCIA09_254_1, whole: 0.8980, core: 0.7790, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:19:40,393 Subject 55/95, 1/1HGG_Brats18_CBICA_ATD_1, whole: 0.8587, core: 0.6468, enhancing: 0.3645, enhancing_postpro: 0.3645
+2025-04-18 12:19:42,666 Subject 56/95, 1/1HGG_Brats18_TCIA02_368_1, whole: 0.8698, core: 0.8232, enhancing: 0.7184, enhancing_postpro: 0.7184
+2025-04-18 12:19:44,734 Subject 57/95, 1/1LGG_Brats18_TCIA10_410_1, whole: 0.6727, core: 0.4255, enhancing: 0.4481, enhancing_postpro: 0.4481
+2025-04-18 12:19:46,917 Subject 58/95, 1/1HGG_Brats18_CBICA_AAB_1, whole: 0.8724, core: 0.8813, enhancing: 0.4652, enhancing_postpro: 0.4652
+2025-04-18 12:19:49,049 Subject 59/95, 1/1HGG_Brats18_CBICA_APZ_1, whole: 0.7470, core: 0.8257, enhancing: 0.6091, enhancing_postpro: 0.6091
+2025-04-18 12:19:51,068 Subject 60/95, 1/1LGG_Brats18_TCIA10_490_1, whole: 0.8026, core: 0.8538, enhancing: 0.4771, enhancing_postpro: 0.4771
+2025-04-18 12:19:53,144 Subject 61/95, 1/1LGG_Brats18_2013_24_1, whole: 0.8304, core: 0.8611, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:19:55,346 Subject 62/95, 1/1HGG_Brats18_TCIA03_199_1, whole: 0.8431, core: 0.7374, enhancing: 0.5151, enhancing_postpro: 0.5151
+2025-04-18 12:19:57,454 Subject 63/95, 1/1LGG_Brats18_TCIA09_255_1, whole: 0.7872, core: 0.7718, enhancing: 0.0323, enhancing_postpro: 0.0323
+2025-04-18 12:19:59,817 Subject 64/95, 1/1HGG_Brats18_TCIA03_257_1, whole: 0.7064, core: 0.7431, enhancing: 0.5640, enhancing_postpro: 0.5640
+2025-04-18 12:20:02,012 Subject 65/95, 1/1HGG_Brats18_CBICA_ABN_1, whole: 0.7335, core: 0.2538, enhancing: 0.1473, enhancing_postpro: 0.1473
+2025-04-18 12:20:04,070 Subject 66/95, 1/1HGG_Brats18_TCIA02_171_1, whole: 0.7133, core: 0.2039, enhancing: 0.0375, enhancing_postpro: 0.0375
+2025-04-18 12:20:06,111 Subject 67/95, 1/1LGG_Brats18_TCIA10_325_1, whole: 0.6133, core: 0.5420, enhancing: 0.0000, enhancing_postpro: 1.0000
+2025-04-18 12:20:08,176 Subject 68/95, 1/1HGG_Brats18_CBICA_ANP_1, whole: 0.5296, core: 0.1881, enhancing: 0.0139, enhancing_postpro: 0.0139
+2025-04-18 12:20:10,129 Subject 69/95, 1/1LGG_Brats18_2013_0_1, whole: 0.5806, core: 0.8332, enhancing: 0.1885, enhancing_postpro: 0.1885
+2025-04-18 12:20:12,117 Subject 70/95, 1/1HGG_Brats18_TCIA02_377_1, whole: 0.8384, core: 0.6471, enhancing: 0.4666, enhancing_postpro: 0.4666
+2025-04-18 12:20:14,167 Subject 71/95, 1/1HGG_Brats18_TCIA02_606_1, whole: 0.7885, core: 0.7626, enhancing: 0.3960, enhancing_postpro: 0.3960
+2025-04-18 12:20:16,152 Subject 72/95, 1/1HGG_Brats18_TCIA01_221_1, whole: 0.9015, core: 0.7414, enhancing: 0.3426, enhancing_postpro: 0.3426
+2025-04-18 12:20:18,248 Subject 73/95, 1/1LGG_Brats18_TCIA10_393_1, whole: 0.8334, core: 0.7724, enhancing: 0.1824, enhancing_postpro: 0.1824
+2025-04-18 12:20:20,212 Subject 74/95, 1/1HGG_Brats18_TCIA06_211_1, whole: 0.8060, core: 0.7166, enhancing: 0.5172, enhancing_postpro: 0.5172
+2025-04-18 12:20:22,281 Subject 75/95, 1/1LGG_Brats18_2013_28_1, whole: 0.7313, core: 0.0768, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:20:24,379 Subject 76/95, 1/1LGG_Brats18_TCIA09_312_1, whole: 0.6600, core: 0.1951, enhancing: 0.0732, enhancing_postpro: 0.0000
+2025-04-18 12:20:26,630 Subject 77/95, 1/1HGG_Brats18_TCIA02_168_1, whole: 0.8308, core: 0.7539, enhancing: 0.3603, enhancing_postpro: 0.3603
+2025-04-18 12:20:28,602 Subject 78/95, 1/1LGG_Brats18_TCIA13_630_1, whole: 0.7688, core: 0.8365, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:20:30,779 Subject 79/95, 1/1HGG_Brats18_CBICA_AWI_1, whole: 0.7634, core: 0.7331, enhancing: 0.3219, enhancing_postpro: 0.3219
+2025-04-18 12:20:32,763 Subject 80/95, 1/1HGG_Brats18_CBICA_APR_1, whole: 0.8347, core: 0.8823, enhancing: 0.6209, enhancing_postpro: 0.6209
+2025-04-18 12:20:34,849 Subject 81/95, 1/1LGG_Brats18_TCIA09_462_1, whole: 0.5037, core: 0.4349, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:20:36,884 Subject 82/95, 1/1HGG_Brats18_TCIA08_167_1, whole: 0.7941, core: 0.7172, enhancing: 0.3439, enhancing_postpro: 0.3439
+2025-04-18 12:20:38,982 Subject 83/95, 1/1HGG_Brats18_TCIA03_138_1, whole: 0.8600, core: 0.7692, enhancing: 0.3363, enhancing_postpro: 0.3363
+2025-04-18 12:20:40,939 Subject 84/95, 1/1LGG_Brats18_TCIA12_298_1, whole: 0.8824, core: 0.8787, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:20:43,018 Subject 85/95, 1/1HGG_Brats18_CBICA_AQQ_1, whole: 0.7674, core: 0.3148, enhancing: 0.0737, enhancing_postpro: 0.0737
+2025-04-18 12:20:45,170 Subject 86/95, 1/1HGG_Brats18_TCIA01_499_1, whole: 0.8191, core: 0.8490, enhancing: 0.5396, enhancing_postpro: 0.5396
+2025-04-18 12:20:47,351 Subject 87/95, 1/1HGG_Brats18_2013_5_1, whole: 0.7694, core: 0.4383, enhancing: 0.2035, enhancing_postpro: 0.2035
+2025-04-18 12:20:49,442 Subject 88/95, 1/1HGG_Brats18_TCIA02_455_1, whole: 0.8877, core: 0.6935, enhancing: 0.5277, enhancing_postpro: 0.5277
+2025-04-18 12:20:51,461 Subject 89/95, 1/1LGG_Brats18_TCIA10_175_1, whole: 0.8304, core: 0.7599, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:20:53,479 Subject 90/95, 1/1LGG_Brats18_TCIA10_130_1, whole: 0.7475, core: 0.3171, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:20:55,449 Subject 91/95, 1/1LGG_Brats18_TCIA10_152_1, whole: 0.8003, core: 0.4619, enhancing: 0.6288, enhancing_postpro: 0.6288
+2025-04-18 12:20:57,549 Subject 92/95, 1/1HGG_Brats18_CBICA_ASU_1, whole: 0.8366, core: 0.7527, enhancing: 0.5265, enhancing_postpro: 0.5265
+2025-04-18 12:20:59,640 Subject 93/95, 1/1LGG_Brats18_TCIA10_330_1, whole: 0.8088, core: 0.7971, enhancing: 0.1202, enhancing_postpro: 0.1202
+2025-04-18 12:21:02,066 Subject 94/95, 1/1LGG_Brats18_TCIA09_620_1, whole: 0.0642, core: 0.0365, enhancing: 0.0762, enhancing_postpro: 0.0762
+2025-04-18 12:21:03,971 Subject 95/95, 1/1LGG_Brats18_TCIA13_615_1, whole: 0.7864, core: 0.4469, enhancing: 0.0802, enhancing_postpro: 0.0802
+2025-04-18 12:21:03,972 Testing flair
+2025-04-18 12:21:06,012 Subject 1/95, 1/1HGG_Brats18_CBICA_AQR_1, whole: 0.8629, core: 0.6913, enhancing: 0.5693, enhancing_postpro: 0.5693
+2025-04-18 12:21:08,169 Subject 2/95, 1/1HGG_Brats18_TCIA04_361_1, whole: 0.9356, core: 0.8419, enhancing: 0.5130, enhancing_postpro: 0.5130
+2025-04-18 12:21:10,358 Subject 3/95, 1/1HGG_Brats18_CBICA_AXM_1, whole: 0.9044, core: 0.8891, enhancing: 0.6913, enhancing_postpro: 0.6913
+2025-04-18 12:21:12,476 Subject 4/95, 1/1HGG_Brats18_TCIA08_406_1, whole: 0.8631, core: 0.1450, enhancing: 0.1981, enhancing_postpro: 0.1981
+2025-04-18 12:21:14,600 Subject 5/95, 1/1HGG_Brats18_TCIA06_165_1, whole: 0.9249, core: 0.7654, enhancing: 0.2086, enhancing_postpro: 0.2086
+2025-04-18 12:21:16,913 Subject 6/95, 1/1HGG_Brats18_CBICA_APY_1, whole: 0.9259, core: 0.7867, enhancing: 0.6140, enhancing_postpro: 0.6140
+2025-04-18 12:21:18,879 Subject 7/95, 1/1HGG_Brats18_TCIA01_180_1, whole: 0.8599, core: 0.7852, enhancing: 0.2058, enhancing_postpro: 0.2058
+2025-04-18 12:21:20,933 Subject 8/95, 1/1LGG_Brats18_TCIA10_266_1, whole: 0.8635, core: 0.7852, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:21:22,531 Subject 9/95, 1/1HGG_Brats18_2013_2_1, whole: 0.8483, core: 0.6648, enhancing: 0.5692, enhancing_postpro: 0.5692
+2025-04-18 12:21:24,310 Subject 10/95, 1/1HGG_Brats18_CBICA_AAL_1, whole: 0.6241, core: 0.7323, enhancing: 0.0914, enhancing_postpro: 0.0000
+2025-04-18 12:21:26,457 Subject 11/95, 1/1LGG_Brats18_TCIA12_249_1, whole: 0.9439, core: 0.8165, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:21:28,496 Subject 12/95, 1/1HGG_Brats18_TCIA06_409_1, whole: 0.9161, core: 0.5528, enhancing: 0.3010, enhancing_postpro: 0.3010
+2025-04-18 12:21:30,592 Subject 13/95, 1/1HGG_Brats18_2013_25_1, whole: 0.9337, core: 0.7703, enhancing: 0.1898, enhancing_postpro: 0.1898
+2025-04-18 12:21:32,580 Subject 14/95, 1/1HGG_Brats18_CBICA_AUN_1, whole: 0.9109, core: 0.9167, enhancing: 0.7133, enhancing_postpro: 0.7133
+2025-04-18 12:21:34,696 Subject 15/95, 1/1HGG_Brats18_CBICA_ARZ_1, whole: 0.6620, core: 0.0558, enhancing: 0.0247, enhancing_postpro: 0.0000
+2025-04-18 12:21:36,705 Subject 16/95, 1/1HGG_Brats18_TCIA06_247_1, whole: 0.8902, core: 0.8303, enhancing: 0.6225, enhancing_postpro: 0.6225
+2025-04-18 12:21:38,918 Subject 17/95, 1/1LGG_Brats18_TCIA09_402_1, whole: 0.6800, core: 0.6148, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:21:40,980 Subject 18/95, 1/1HGG_Brats18_TCIA03_338_1, whole: 0.3223, core: 0.5089, enhancing: 0.3940, enhancing_postpro: 0.3940
+2025-04-18 12:21:42,990 Subject 19/95, 1/1HGG_Brats18_TCIA08_218_1, whole: 0.9357, core: 0.7167, enhancing: 0.4691, enhancing_postpro: 0.4691
+2025-04-18 12:21:45,076 Subject 20/95, 1/1HGG_Brats18_TCIA02_179_1, whole: 0.8930, core: 0.7319, enhancing: 0.5718, enhancing_postpro: 0.5718
+2025-04-18 12:21:47,213 Subject 21/95, 1/1HGG_Brats18_TCIA02_394_1, whole: 0.9107, core: 0.7697, enhancing: 0.3085, enhancing_postpro: 0.3085
+2025-04-18 12:21:49,192 Subject 22/95, 1/1LGG_Brats18_TCIA10_202_1, whole: 0.8010, core: 0.6726, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:21:51,266 Subject 23/95, 1/1HGG_Brats18_CBICA_AZD_1, whole: 0.3787, core: 0.7615, enhancing: 0.4871, enhancing_postpro: 0.4871
+2025-04-18 12:21:53,261 Subject 24/95, 1/1LGG_Brats18_TCIA13_634_1, whole: 0.9090, core: 0.6923, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:21:55,500 Subject 25/95, 1/1HGG_Brats18_CBICA_BHK_1, whole: 0.0681, core: 0.1534, enhancing: 0.0263, enhancing_postpro: 0.0263
+2025-04-18 12:21:57,520 Subject 26/95, 1/1HGG_Brats18_TCIA01_150_1, whole: 0.9314, core: 0.8674, enhancing: 0.6405, enhancing_postpro: 0.6405
+2025-04-18 12:21:59,676 Subject 27/95, 1/1LGG_Brats18_2013_8_1, whole: 0.3559, core: 0.5057, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:22:01,723 Subject 28/95, 1/1LGG_Brats18_TCIA09_451_1, whole: 0.8271, core: 0.7942, enhancing: 0.0049, enhancing_postpro: 0.0049
+2025-04-18 12:22:03,657 Subject 29/95, 1/1HGG_Brats18_TCIA01_429_1, whole: 0.9520, core: 0.8785, enhancing: 0.7275, enhancing_postpro: 0.7275
+2025-04-18 12:22:05,934 Subject 30/95, 1/1LGG_Brats18_TCIA13_654_1, whole: 0.9609, core: 0.7579, enhancing: 0.4277, enhancing_postpro: 0.4277
+2025-04-18 12:22:08,017 Subject 31/95, 1/1LGG_Brats18_2013_1_1, whole: 0.4572, core: 0.5480, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:22:10,288 Subject 32/95, 1/1HGG_Brats18_2013_20_1, whole: 0.9117, core: 0.8165, enhancing: 0.4751, enhancing_postpro: 0.4751
+2025-04-18 12:22:12,718 Subject 33/95, 1/1HGG_Brats18_2013_17_1, whole: 0.8982, core: 0.7491, enhancing: 0.5838, enhancing_postpro: 0.5838
+2025-04-18 12:22:14,819 Subject 34/95, 1/1HGG_Brats18_TCIA08_205_1, whole: 0.8672, core: 0.7258, enhancing: 0.5335, enhancing_postpro: 0.5335
+2025-04-18 12:22:16,836 Subject 35/95, 1/1HGG_Brats18_CBICA_AXJ_1, whole: 0.8793, core: 0.3428, enhancing: 0.0082, enhancing_postpro: 0.0082
+2025-04-18 12:22:19,149 Subject 36/95, 1/1LGG_Brats18_TCIA13_642_1, whole: 0.9684, core: 0.4824, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:22:21,231 Subject 37/95, 1/1HGG_Brats18_CBICA_AYA_1, whole: 0.7531, core: 0.4997, enhancing: 0.4156, enhancing_postpro: 0.4156
+2025-04-18 12:22:23,334 Subject 38/95, 1/1HGG_Brats18_CBICA_BFB_1, whole: 0.9167, core: 0.7136, enhancing: 0.4930, enhancing_postpro: 0.4930
+2025-04-18 12:22:25,414 Subject 39/95, 1/1HGG_Brats18_2013_19_1, whole: 0.7391, core: 0.5061, enhancing: 0.2618, enhancing_postpro: 0.2618
+2025-04-18 12:22:27,343 Subject 40/95, 1/1HGG_Brats18_CBICA_ASA_1, whole: 0.9315, core: 0.8772, enhancing: 0.6614, enhancing_postpro: 0.6614
+2025-04-18 12:22:29,356 Subject 41/95, 1/1HGG_Brats18_CBICA_ASW_1, whole: 0.9212, core: 0.8658, enhancing: 0.6364, enhancing_postpro: 0.6364
+2025-04-18 12:22:31,449 Subject 42/95, 1/1HGG_Brats18_TCIA02_491_1, whole: 0.7896, core: 0.8193, enhancing: 0.6229, enhancing_postpro: 0.6229
+2025-04-18 12:22:33,453 Subject 43/95, 1/1HGG_Brats18_TCIA04_328_1, whole: 0.9120, core: 0.6400, enhancing: 0.4394, enhancing_postpro: 0.4394
+2025-04-18 12:22:35,573 Subject 44/95, 1/1HGG_Brats18_TCIA08_280_1, whole: 0.8480, core: 0.5778, enhancing: 0.4834, enhancing_postpro: 0.4834
+2025-04-18 12:22:37,590 Subject 45/95, 1/1LGG_Brats18_TCIA10_282_1, whole: 0.8779, core: 0.6937, enhancing: 0.0035, enhancing_postpro: 0.0000
+2025-04-18 12:22:39,652 Subject 46/95, 1/1HGG_Brats18_TCIA01_412_1, whole: 0.8802, core: 0.8455, enhancing: 0.5290, enhancing_postpro: 0.5290
+2025-04-18 12:22:41,649 Subject 47/95, 1/1HGG_Brats18_TCIA02_473_1, whole: 0.7223, core: 0.3585, enhancing: 0.3494, enhancing_postpro: 0.3494
+2025-04-18 12:22:43,642 Subject 48/95, 1/1HGG_Brats18_TCIA08_436_1, whole: 0.9551, core: 0.8260, enhancing: 0.4705, enhancing_postpro: 0.4705
+2025-04-18 12:22:45,858 Subject 49/95, 1/1HGG_Brats18_CBICA_ASY_1, whole: 0.8634, core: 0.8524, enhancing: 0.6345, enhancing_postpro: 0.6345
+2025-04-18 12:22:48,181 Subject 50/95, 1/1LGG_Brats18_TCIA12_470_1, whole: 0.8715, core: 0.5472, enhancing: 0.3846, enhancing_postpro: 0.3846
+2025-04-18 12:22:50,531 Subject 51/95, 1/1HGG_Brats18_CBICA_AQY_1, whole: 0.9329, core: 0.8807, enhancing: 0.6348, enhancing_postpro: 0.6348
+2025-04-18 12:22:52,679 Subject 52/95, 1/1LGG_Brats18_TCIA13_633_1, whole: 0.9267, core: 0.6338, enhancing: 0.0098, enhancing_postpro: 0.0098
+2025-04-18 12:22:54,882 Subject 53/95, 1/1LGG_Brats18_TCIA12_480_1, whole: 0.9232, core: 0.7333, enhancing: 0.0110, enhancing_postpro: 0.0110
+2025-04-18 12:22:56,917 Subject 54/95, 1/1LGG_Brats18_TCIA09_254_1, whole: 0.8796, core: 0.7308, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:22:58,589 Subject 55/95, 1/1HGG_Brats18_CBICA_ATD_1, whole: 0.9208, core: 0.6890, enhancing: 0.4427, enhancing_postpro: 0.4427
+2025-04-18 12:23:00,856 Subject 56/95, 1/1HGG_Brats18_TCIA02_368_1, whole: 0.9686, core: 0.8802, enhancing: 0.7096, enhancing_postpro: 0.7096
+2025-04-18 12:23:02,905 Subject 57/95, 1/1LGG_Brats18_TCIA10_410_1, whole: 0.3506, core: 0.0061, enhancing: 0.0003, enhancing_postpro: 0.0003
+2025-04-18 12:23:05,061 Subject 58/95, 1/1HGG_Brats18_CBICA_AAB_1, whole: 0.9271, core: 0.7308, enhancing: 0.4494, enhancing_postpro: 0.4494
+2025-04-18 12:23:07,196 Subject 59/95, 1/1HGG_Brats18_CBICA_APZ_1, whole: 0.5808, core: 0.7866, enhancing: 0.5005, enhancing_postpro: 0.5005
+2025-04-18 12:23:09,218 Subject 60/95, 1/1LGG_Brats18_TCIA10_490_1, whole: 0.8441, core: 0.7289, enhancing: 0.3888, enhancing_postpro: 0.3888
+2025-04-18 12:23:11,260 Subject 61/95, 1/1LGG_Brats18_2013_24_1, whole: 0.8284, core: 0.8602, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:23:13,373 Subject 62/95, 1/1HGG_Brats18_TCIA03_199_1, whole: 0.9356, core: 0.7377, enhancing: 0.6963, enhancing_postpro: 0.6963
+2025-04-18 12:23:15,412 Subject 63/95, 1/1LGG_Brats18_TCIA09_255_1, whole: 0.8934, core: 0.6582, enhancing: 0.0146, enhancing_postpro: 0.0146
+2025-04-18 12:23:17,748 Subject 64/95, 1/1HGG_Brats18_TCIA03_257_1, whole: 0.8327, core: 0.7252, enhancing: 0.5465, enhancing_postpro: 0.5465
+2025-04-18 12:23:19,866 Subject 65/95, 1/1HGG_Brats18_CBICA_ABN_1, whole: 0.7460, core: 0.1557, enhancing: 0.0178, enhancing_postpro: 0.0178
+2025-04-18 12:23:21,973 Subject 66/95, 1/1HGG_Brats18_TCIA02_171_1, whole: 0.9325, core: 0.1497, enhancing: 0.0390, enhancing_postpro: 0.0390
+2025-04-18 12:23:24,072 Subject 67/95, 1/1LGG_Brats18_TCIA10_325_1, whole: 0.9299, core: 0.8285, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:23:26,234 Subject 68/95, 1/1HGG_Brats18_CBICA_ANP_1, whole: 0.6678, core: 0.1861, enhancing: 0.2346, enhancing_postpro: 0.2346
+2025-04-18 12:23:28,170 Subject 69/95, 1/1LGG_Brats18_2013_0_1, whole: 0.6789, core: 0.4187, enhancing: 0.2633, enhancing_postpro: 0.2633
+2025-04-18 12:23:30,164 Subject 70/95, 1/1HGG_Brats18_TCIA02_377_1, whole: 0.9437, core: 0.8407, enhancing: 0.6881, enhancing_postpro: 0.6881
+2025-04-18 12:23:32,208 Subject 71/95, 1/1HGG_Brats18_TCIA02_606_1, whole: 0.8296, core: 0.6645, enhancing: 0.1606, enhancing_postpro: 0.1606
+2025-04-18 12:23:34,171 Subject 72/95, 1/1HGG_Brats18_TCIA01_221_1, whole: 0.9372, core: 0.7566, enhancing: 0.2282, enhancing_postpro: 0.2282
+2025-04-18 12:23:36,374 Subject 73/95, 1/1LGG_Brats18_TCIA10_393_1, whole: 0.9305, core: 0.7335, enhancing: 0.1159, enhancing_postpro: 0.1159
+2025-04-18 12:23:38,374 Subject 74/95, 1/1HGG_Brats18_TCIA06_211_1, whole: 0.9239, core: 0.8760, enhancing: 0.6593, enhancing_postpro: 0.6593
+2025-04-18 12:23:40,493 Subject 75/95, 1/1LGG_Brats18_2013_28_1, whole: 0.8378, core: 0.5485, enhancing: 0.2640, enhancing_postpro: 0.2640
+2025-04-18 12:23:42,651 Subject 76/95, 1/1LGG_Brats18_TCIA09_312_1, whole: 0.8193, core: 0.5660, enhancing: 0.3522, enhancing_postpro: 0.3522
+2025-04-18 12:23:44,894 Subject 77/95, 1/1HGG_Brats18_TCIA02_168_1, whole: 0.7061, core: 0.6311, enhancing: 0.2307, enhancing_postpro: 0.2307
+2025-04-18 12:23:46,848 Subject 78/95, 1/1LGG_Brats18_TCIA13_630_1, whole: 0.9559, core: 0.7296, enhancing: 0.0000, enhancing_postpro: 1.0000
+2025-04-18 12:23:48,986 Subject 79/95, 1/1HGG_Brats18_CBICA_AWI_1, whole: 0.8258, core: 0.4680, enhancing: 0.1553, enhancing_postpro: 0.1553
+2025-04-18 12:23:50,929 Subject 80/95, 1/1HGG_Brats18_CBICA_APR_1, whole: 0.8860, core: 0.8900, enhancing: 0.5880, enhancing_postpro: 0.5880
+2025-04-18 12:23:52,960 Subject 81/95, 1/1LGG_Brats18_TCIA09_462_1, whole: 0.9107, core: 0.6038, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:23:54,992 Subject 82/95, 1/1HGG_Brats18_TCIA08_167_1, whole: 0.9423, core: 0.7629, enhancing: 0.5496, enhancing_postpro: 0.5496
+2025-04-18 12:23:57,093 Subject 83/95, 1/1HGG_Brats18_TCIA03_138_1, whole: 0.9101, core: 0.8841, enhancing: 0.5135, enhancing_postpro: 0.5135
+2025-04-18 12:23:59,037 Subject 84/95, 1/1LGG_Brats18_TCIA12_298_1, whole: 0.9435, core: 0.8035, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:24:01,110 Subject 85/95, 1/1HGG_Brats18_CBICA_AQQ_1, whole: 0.8515, core: 0.5466, enhancing: 0.3240, enhancing_postpro: 0.3240
+2025-04-18 12:24:03,288 Subject 86/95, 1/1HGG_Brats18_TCIA01_499_1, whole: 0.8250, core: 0.7216, enhancing: 0.4530, enhancing_postpro: 0.4530
+2025-04-18 12:24:05,552 Subject 87/95, 1/1HGG_Brats18_2013_5_1, whole: 0.8977, core: 0.4634, enhancing: 0.1797, enhancing_postpro: 0.1797
+2025-04-18 12:24:07,667 Subject 88/95, 1/1HGG_Brats18_TCIA02_455_1, whole: 0.9285, core: 0.8108, enhancing: 0.6213, enhancing_postpro: 0.6213
+2025-04-18 12:24:09,700 Subject 89/95, 1/1LGG_Brats18_TCIA10_175_1, whole: 0.9471, core: 0.7003, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:24:11,743 Subject 90/95, 1/1LGG_Brats18_TCIA10_130_1, whole: 0.8911, core: 0.5158, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:24:13,822 Subject 91/95, 1/1LGG_Brats18_TCIA10_152_1, whole: 0.9516, core: 0.4271, enhancing: 0.1052, enhancing_postpro: 0.1052
+2025-04-18 12:24:19,295 Subject 92/95, 1/1HGG_Brats18_CBICA_ASU_1, whole: 0.8745, core: 0.8828, enhancing: 0.6662, enhancing_postpro: 0.6662
+2025-04-18 12:24:22,700 Subject 93/95, 1/1LGG_Brats18_TCIA10_330_1, whole: 0.7430, core: 0.5997, enhancing: 0.0257, enhancing_postpro: 0.0257
+2025-04-18 12:24:27,593 Subject 94/95, 1/1LGG_Brats18_TCIA09_620_1, whole: 0.6310, core: 0.4936, enhancing: 0.0810, enhancing_postpro: 0.0810
+2025-04-18 12:24:31,177 Subject 95/95, 1/1LGG_Brats18_TCIA13_615_1, whole: 0.9146, core: 0.5288, enhancing: 0.0000, enhancing_postpro: 0.0000
+2025-04-18 12:24:31,180 Average scores: [0.79543686 0.6960751  0.3995066  0.42754903]
